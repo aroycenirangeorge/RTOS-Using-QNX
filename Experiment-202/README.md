@@ -126,7 +126,7 @@ void *state_3(void *);
 int main()
 {
     int ret;
-
+    printf("Royce Niran George A (212223060231)\n");
     ret = pthread_mutex_init(&mutex, NULL);
     if (ret != EOK) {
         fprintf(stderr,"pthread_mutex_init failed: %s\n", strerror(ret));
@@ -249,6 +249,9 @@ main, exiting
 ---
 
 # Output
+
+<img width="1437" height="453" alt="image" src="https://github.com/user-attachments/assets/0ca18d11-29fd-41e5-b3aa-104683f79618" />
+<img width="1439" height="462" alt="image" src="https://github.com/user-attachments/assets/db051a4d-e2d0-46ff-a282-445529e102c0" />
 
 ---
 

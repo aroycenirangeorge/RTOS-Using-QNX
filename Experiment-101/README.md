@@ -54,6 +54,8 @@ int main(void) {
 ```
 ## Output
 
+<img width="985" height="179" alt="image" src="https://github.com/user-attachments/assets/2c606ea0-4915-4a73-87eb-fb85bcddab7b" />
+
 ---
 
 ## Result

@@ -2,9 +2,9 @@
   <img src="logo.png" alt="Logo" width="500">
 </p>
 <p align="center">
-    # 19EC527: Real Time Operating System using QNX
+    **19EC527: Real Time Operating System using QNX
 </p>
-## Table of Contents
+**Table of Contents
 
 | Exp. No. | Date | Experiment Title | QR Code | Marks | Signature |
 |---------|------|------------------|--------|------|-----------|
@@ -21,8 +21,11 @@ I confirm that the experiments and GitHub Links provided are entirely my own wor
 
 **Name:**  
 
-**Register Number:**  
+<p align="right">
+    **Register Number:**  
+</p>
 
-**Date:** 13.11.2025  
-
-**Learner Signature:**  
+**Date:**
+<p align="right">
+    **Learner Signature:**  
+</p>

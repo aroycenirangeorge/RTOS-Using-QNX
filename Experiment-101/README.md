@@ -49,13 +49,13 @@ To create, build, and execute a simple “Hello World” program in QNX on two t
 
 int main(void) {
     printf("Hello World!!!\n");
-    printf("Name:Arun\n");
-    printf("Regisgter Number:1234567\n");
+    printf("Name:Royce Niran George A\n");
+    printf("Register Number: 212223060231\n");
     return 0;
 }
 ```
 ## Output
-![Output Image](exp1.png)
+![Output Image](image.png)
 ---
 
 ## Result

@@ -251,6 +251,7 @@ main, exiting
 
 # Output
 
+![output](image.png)
 ---
 
 # Result

@@ -103,6 +103,9 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+
+![output](image.png)
+
 ---
 
 # Result

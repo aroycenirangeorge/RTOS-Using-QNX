@@ -170,6 +170,7 @@ got our pulse, the timer must have expired
 
 # Output
 
+![output](image.png)
 
 ---
 
